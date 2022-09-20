@@ -2,9 +2,9 @@
 
 I am David Olamide Harold. I am a Front-end web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-harold-b52972196/)](https://www.linkedin.com/in/david-harold-b52972196/)
+[![Linkedin Badge](https://img.shields.io/badge/-David.Harold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-harold-b52972196/)](https://www.linkedin.com/in/david-harold-b52972196/)
 [![Gmail Badge](https://img.shields.io/badge/-olamidedavid10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olamidedavid10@gmail.com)](mailto:olamidedavid10@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Harold Olamide David-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
+[![Facebook Badge](https://img.shields.io/badge/Harold.Olamide.David-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
 
 ## ⚡ Technologies
