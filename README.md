@@ -5,7 +5,7 @@ I am David Olamide Harold. I am a Front-end web developer and love writing clean
 [![Linkedin Badge](https://img.shields.io/badge/-David.Harold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-harold-b52972196/)](https://www.linkedin.com/in/david-harold-b52972196/)
 [![Gmail Badge](https://img.shields.io/badge/-olamidedavid10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olamidedavid10@gmail.com)](mailto:olamidedavid10@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Harold.Olamide.David-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/olamide.david2/)](https://web.facebook.com/olamide.david2/)
-![Twitter](https://img.shields.io/badge/Olamide-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/harold_olamide/)](https://twitter.com/harold_olamide/)
+[![Twitter](https://img.shields.io/badge/Olamide-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/harold_olamide/](https://twitter.com/harold_olamide/)
 
 
 ## ⚡ Technologies
